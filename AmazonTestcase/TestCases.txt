@@ -1,0 +1,58 @@
+MiniProject
+------------
+1. Add an item to cart from movie and Tv by using all manual xpath
+
+2. Add an item to cart from software by using all manual xpath
+
+3. Add an item to cart from musicalInstument and Tv by using all manual xpath
+
+4. print all radio buttons text under department and add validations ever required.
+
+5. validate number of images in the department page
+
+6. 
+openBrowser
+Enter www.amazon.com
+click on Todaysdeal
+click on seemore in Brands
+and print and validate number of checkboxes
+
+7. 
+openBrowser
+Enter www.amazon.com
+click on Todaysdeal
+click on seemore in Brands
+select first checkbox, click on first item
+select any size 
+click on add2cart
+verifysucessmsg
+
+8. 
+openBrowser
+Enter www.amazon.com
+click on Todaysdeal
+click on seemore in Brands
+select second checkbox, click on first item
+select any size 
+click on add2cart
+verifysucessmsg
+
+9. 
+openBrowser
+Enter www.amazon.com
+click on Todaysdeal
+click on seemore in Brands
+select Third checkbox, click on first item
+select any size 
+click on add2cart
+verifysucessmsg
+
+10.
+openBrowser
+Enter www.amazon.com
+click on Todaysdeal
+click on seemore in Brands
+select fourth checkbox, click on first item
+select any size 
+click on add2cart
+verifysucessmsg
